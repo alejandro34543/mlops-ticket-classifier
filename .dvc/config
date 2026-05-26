@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = gdrive://1E4hczZODxHppdsax8tJlcBTYRGKFyt0m
+    url = https://dagshub.com/testostador/dvc-tickets-classifier.dvc
