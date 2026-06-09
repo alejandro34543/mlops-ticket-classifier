@@ -12,3 +12,5 @@ mlruns/
 
 # Env
 .env
+
+secrets/
