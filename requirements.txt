@@ -3,3 +3,4 @@ scikit-learn
 datasets
 jupyter
 dvc
+mlflow
